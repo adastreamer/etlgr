@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 LANG_KEY = u"DE"
-LANG_NATIVE_NAME = u"Deutscher"
+LANG_NATIVE_NAME = u"Deutsch"
 
 KWDS = {
 "MSG_FORMAT_DEFAULT":       u"Standard: E-Mail [Betreff] Nachricht, Link",
