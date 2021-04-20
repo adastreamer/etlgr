@@ -19,7 +19,7 @@ oauthlib==0.7.2
 packaging==16.8
 pbr==2.0.0
 peewee==2.8.1
-py==1.4.31
+py==1.10.0
 pymongo==3.3.0
 pyparsing==2.2.0
 pytest==3.0.3
