@@ -13,7 +13,7 @@ itsdangerous==0.24
 Jinja2==2.7.2
 MarkupSafe==0.23
 mock==2.0.0
-numpy==1.12.1
+numpy==1.21.0
 oauth==1.0.1
 oauthlib==0.7.2
 packaging==16.8
